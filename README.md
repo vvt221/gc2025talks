@@ -226,6 +226,6 @@ In this talk, Sergii will dive into internals of Git protocol and his experience
 
 Ditch Postgres LIKE queries for a Redis-backed trie to supercharge @mentions. In this talk, you'll learn how we moved @mentions off Postgres into Redis, built a prefix tree for typeahead completion, and cut latency by 80% under heavy load.
 
-#### A Small Update on TinyGo - GopherCon 2025 Edition - Ron Evans, The Hybrid Group
+#### [A Small Update on TinyGo - GopherCon 2025 Edition - Ron Evans, The Hybrid Group](https://deadprogram.github.io/gophercon-2025)
 
 Come along on a lightning-speed tour of the latest and greatest happenings in the world of TinyGo.
