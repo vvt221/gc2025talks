@@ -58,7 +58,7 @@ In this talk, we’ll explore ATProto's core components and their interactions. 
 
 By the end, you'll have a strong foundation in ATProto and a roadmap for building your own decentralized social applications.
 
-#### [Analysis and Transformation Tools for Go Codebase Modernization - Alan Donovan](/2025/Analysis and transformation tools for Go code modernization/)
+#### [Analysis and Transformation Tools for Go Codebase Modernization - Alan Donovan](/2025/Analysis%20and%20transformation%20tools%20for%20Go%20code%20modernization/)
 
 In this talk, Alan will report recent progress in analysis and refactoring tools for Go. The talk will cover:
 
