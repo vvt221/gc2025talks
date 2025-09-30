@@ -154,7 +154,7 @@ We will also cover common patterns that will help your applications run smoothly
 
 Go is great for writing concurrent programs, but even if you write logically sound programs, you can still give way to data races that are compiler- or hardware-dependent. What can you do to prevent them? How does Go help you detect races, and how do the latest changes to TSAN affect a Go dev? Also, does Einstein have anything to do with this?
 
-#### Advancing Go Garbage Collection with Green Tea - Michael Knyszek
+#### [Advancing Go Garbage Collection with Green Tea - Michael Knyszek](/2025/Advancing%20Go%20Garbage%20Collection%20with%20Green%20Tea)
 
 Memory latency and bandwidth are becoming increasingly constrained, and these trends are at odds with most of today's garbage collection algorithms, including Go's. In this talk, Michael will dive deep into Green Tea, a new parallel mark algorithm to accelerate Go's garbage collector through improved cache locality and the use of modern SIMD hardware. The talk will also cover what this new algorithm means for the performance of Go programs, along with suggestions on how advanced Gophers can capitalize on these improvements.
 
