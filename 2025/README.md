@@ -1,3 +1,3 @@
-# GopherCon 2025
+# Supercharging ML Pipelines with Go - Vaidehi Thete
 
-See the sub-folders for slides and other presentation materials from GopherCon 2025.
+Presentation slides in PDF format are available [here](./Supercharging-ML-Pipelines-With-Go.pdf).
